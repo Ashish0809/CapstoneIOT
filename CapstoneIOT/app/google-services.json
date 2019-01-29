@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219032897328",
+    "firebase_url": "https://capstoneiot-45085.firebaseio.com",
+    "project_id": "capstoneiot-45085",
+    "storage_bucket": "capstoneiot-45085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219032897328:android:4e85c8d9526a394a",
+        "android_client_info": {
+          "package_name": "com.example.capstoneiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219032897328-o9512qm0lgnt64ba3663eatsa4428pp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.capstoneiot",
+            "certificate_hash": "9226adca5f4f7b62dcb89868a9884f0919b702be"
+          }
+        },
+        {
+          "client_id": "219032897328-gvh59cdhnbdg8hs67tmnmf8k2n9mei25.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRVoHAsuYxUPQ_O1pI6pkVYoZzVQ1fc6M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219032897328-gvh59cdhnbdg8hs67tmnmf8k2n9mei25.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
